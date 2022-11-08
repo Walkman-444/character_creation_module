@@ -35,7 +35,7 @@ class Character:
 
 class Warrior(Character):
 
-    BRIEF_DESC_CHAR_CLASS = ('дерзкий воин ближнего боя. '
+    BRIEF_DESC_CHAR_CLASS = (' дерзкий воин ближнего боя. '
                              'Сильный, выносливый и отважный')
     RANGE_VALUE_ATTACK = (3, 5)
     RANGE_VALUE_DEFENCE = (5, 10)
